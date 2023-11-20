@@ -1,0 +1,2 @@
+Customer [custid=0, firstname=Ashay, lastname=Sarve, email=ashay@gmail.com, password=Ashay@123, address=pune, phoneno=7447218478, registerdate=2023-12-01enddate = 2024-12-01, finalamount=32000.0, plan=YEARLY]
+Customer [custid=0, firstname=Harsh, lastname=Thakur, email=thakurharsh@gmail.com, password=Harsh@123, address=mumbau, phoneno=7447212478, registerdate=2023-11-17enddate = 2023-12-17, finalamount=3000.0, plan=MONTHLY]
